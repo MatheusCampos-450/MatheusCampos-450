@@ -1,4 +1,4 @@
-My name is Matheus Amauri de Jesus Campos 👋 <br>
+My name is **Matheus Amauri de Jesus Campos** 👋 <br>
 I'm from Brazil, São José dos Campos/SP.
 Studying, 3th period, Systems Analysis and Development at the Fatec - São José dos Campos. <br>
 
